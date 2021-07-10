@@ -84,10 +84,10 @@ interface UserInterface {
   age?: number
   getMessage(): string
 }
-
+console.log(faker.datatype.number({ min: 18, max: 80 }))
 const user: UserInterface = {
   name: faker.name.findName(),
-  age: faker.random.number({ min: 18, max: 80 }),
+  age: faker.datatype.number({ min: 18, max: 80 }),
   getMessage(): string {
     return 'Hello ' + this.name
   },
