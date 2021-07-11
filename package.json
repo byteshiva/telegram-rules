@@ -45,15 +45,15 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^5.0.1",
-    "@types/faker": "^5.5.7",
-    "@types/node": "^16.3.1",
-    "faker": "^5.5.3",
-    "husky": "^7.0.1",
-    "node": "^16.4.0",
-    "size-limit": "^5.0.1",
-    "tsdx": "^0.14.1",
-    "tslib": "^2.3.0",
-    "typescript": "^4.3.5"
+    "@size-limit/preset-small-lib": "5.0.1",
+    "@types/faker": "5.5.7",
+    "@types/node": "16.3.1",
+    "faker": "5.5.3",
+    "husky": "7.0.1",
+    "node": "16.4.0",
+    "size-limit": "5.0.1",
+    "tsdx": "0.14.1",
+    "tslib": "2.3.0",
+    "typescript": "4.3.5"
   }
 }
