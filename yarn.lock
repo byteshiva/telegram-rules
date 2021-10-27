@@ -5696,10 +5696,10 @@ node-releases@^1.1.71:
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-1.1.73.tgz"
   integrity sha512-uW7fodD6pyW2FZNZnp/Z3hvWKeEW1Y8R1+1CnErE8cXFXzl5blBOoVB41CvMer6P6Q0S5FXDwcHgFd1Wj0U9zg==
 
-node@16.12.0:
-  version "16.12.0"
-  resolved "https://registry.npmjs.org/node/-/node-16.12.0.tgz"
-  integrity sha512-lFyeH8to2Qp7XSea1e938ztw8RhbEJ2IifoFo9r0Rpvs+B3LMrSRO52Qy66nrdlg0jJd3v/JwWE86UsUPo/m8w==
+node@16.13.0:
+  version "16.13.0"
+  resolved "https://registry.npmjs.org/node/-/node-16.13.0.tgz"
+  integrity sha512-bCUq6u/0rVHBvCpxLFTv5/kPjJGTltcyWQ2EtqlZ6WOqSpkTVBFtNoJ9tSVIGmadb0KoRsWd2CyNs9bU/drxXQ==
   dependencies:
     node-bin-setup "^1.0.0"
 
