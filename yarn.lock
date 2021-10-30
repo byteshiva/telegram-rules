@@ -1191,33 +1191,33 @@
   dependencies:
     type-detect "4.0.8"
 
-"@size-limit/file@5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@size-limit/file/-/file-5.0.1.tgz"
-  integrity sha512-BgbGFdFwijuR6tZRlmUoN3UzOIN+dt+28hzsYKjTl1LOn4zUJjTWgTCye11Qygj5L6+MkDZOA1ppEm4ZfjPgmQ==
+"@size-limit/file@5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@size-limit/file/-/file-5.0.5.tgz#fc62708e626e2f154412f65d618937d8a2b081ef"
+  integrity sha512-lnrQYRmTt0QzV08R9M61q0+EM7Jkcp1qZ/+BG01OOFA0rZtfHt9aKCdvoSEoMrIxK44A9lWHRmyNVnKKDfKbWA==
   dependencies:
     semver "7.3.5"
 
-"@size-limit/preset-small-lib@5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@size-limit/preset-small-lib/-/preset-small-lib-5.0.1.tgz"
-  integrity sha512-pscQMfUIiTQQ1VzsjNt+O70tr6NPVSK5UThdzWpAxikUF04ABQandQvhAFrOymGjx4CKcLva6ZGPibZ6uKL9RQ==
+"@size-limit/preset-small-lib@5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@size-limit/preset-small-lib/-/preset-small-lib-5.0.5.tgz#0f5eac605f1d3f1b7129a215a2abe11ff47c3cc3"
+  integrity sha512-BHZwlSEaxHPqOOienQpgoH+ueWYryXiusFpNKRj1Jmyv6/rlOxww1nTCljNhh9+hOKOsahqGbvl43cr8o7NQiQ==
   dependencies:
-    "@size-limit/file" "5.0.1"
-    "@size-limit/webpack" "5.0.1"
+    "@size-limit/file" "5.0.5"
+    "@size-limit/webpack" "5.0.5"
 
-"@size-limit/webpack@5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@size-limit/webpack/-/webpack-5.0.1.tgz"
-  integrity sha512-dG/H0GRc4P5Dc3KRjaQBq7EfGiOqGDw/eTBdkzvd2VnELl7DFcgoC1hULu9Y0XL50Ha+dGQ1AtNKWsZ3dacH/Q==
+"@size-limit/webpack@5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@size-limit/webpack/-/webpack-5.0.5.tgz#368eb926087120b43592aa97cc69e6bca3c7575c"
+  integrity sha512-caLXPNj1iRNeBRoycKTLMLRlLTCjIv80VmBTCag5QZMuNNu4g0weoxjnU7Jbf5YneTuXuEhKSjpc95rB4Biq7Q==
   dependencies:
     css-loader "^5.2.6"
     escape-string-regexp "^4.0.0"
     file-loader "^6.2.0"
     mkdirp "^1.0.4"
-    nanoid "^3.1.23"
+    nanoid "^3.1.28"
     optimize-css-assets-webpack-plugin "^6.0.1"
-    pnp-webpack-plugin "^1.6.4"
+    pnp-webpack-plugin "^1.7.0"
     style-loader "^2.0.0"
     webpack "^4.44.1"
     webpack-bundle-analyzer "^4.4.2"
@@ -5542,7 +5542,7 @@ nanocolors@^0.1.12:
   resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.1.12.tgz"
   integrity sha512-2nMHqg1x5PU+unxX7PGY7AuYxl2qDx7PSrTRjizr8sxdd3l/3hBuWWaki62qmtYm2U5i4Z5E7GbjlyDFhs9/EQ==
 
-nanoid@^3.1.23, nanoid@^3.1.30:
+nanoid@^3.1.28, nanoid@^3.1.30:
   version "3.1.30"
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.1.30.tgz"
   integrity sha512-zJpuPDwOv8D2zq2WRoMe1HsfZthVewpel9CAvTfc/2mBD1uUT/agc5f7GHGWXlYkFvi1mVxe4IjvP2HNrop7nQ==
@@ -6122,9 +6122,9 @@ pn@^1.1.0:
   resolved "https://registry.npmjs.org/pn/-/pn-1.1.0.tgz"
   integrity sha512-2qHaIQr2VLRFoxe2nASzsV6ef4yOOH+Fi9FBOVH6cqeSgUnoyySPZkxzLuzd+RYOQTRpROA0ztTMqxROKSb/nA==
 
-pnp-webpack-plugin@^1.6.4:
+pnp-webpack-plugin@^1.7.0:
   version "1.7.0"
-  resolved "https://registry.npmjs.org/pnp-webpack-plugin/-/pnp-webpack-plugin-1.7.0.tgz"
+  resolved "https://registry.yarnpkg.com/pnp-webpack-plugin/-/pnp-webpack-plugin-1.7.0.tgz#65741384f6d8056f36e2255a8d67ffc20866f5c9"
   integrity sha512-2Rb3vm+EXble/sMXNSu6eoBx8e79gKqhNq9F5ZWW6ERNCTE/Q0wQNne5541tE5vKjfM8hpNCYL+LGc1YTfI0dg==
   dependencies:
     ts-pnp "^1.1.6"
