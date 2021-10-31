@@ -45,7 +45,7 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "5.0.1",
+    "@size-limit/preset-small-lib": "6.0.4",
     "@types/faker": "5.5.8",
     "@types/node": "16.11.6",
     "faker": "5.5.3",
