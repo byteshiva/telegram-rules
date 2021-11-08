@@ -47,7 +47,7 @@
   "devDependencies": {
     "@size-limit/preset-small-lib": "6.0.4",
     "@types/faker": "5.5.8",
-    "@types/node": "16.11.6",
+    "@types/node": "16.11.7",
     "faker": "5.5.3",
     "husky": "7.0.1",
     "node": "17.0.1",
