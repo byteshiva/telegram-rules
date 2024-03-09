@@ -5221,10 +5221,10 @@ node-releases@^1.1.71:
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-1.1.73.tgz"
   integrity sha512-uW7fodD6pyW2FZNZnp/Z3hvWKeEW1Y8R1+1CnErE8cXFXzl5blBOoVB41CvMer6P6Q0S5FXDwcHgFd1Wj0U9zg==
 
-node@17.4.0:
-  version "17.4.0"
-  resolved "https://registry.npmjs.org/node/-/node-17.4.0.tgz"
-  integrity sha512-/kPlbyQjDJa9NEOPmKSTmHOxgq+7wAMWNdU+8B9cXseQXTaF3xYAiYc9dCh3fDUxnrLR/DIqiYEQ85ICqSya8A==
+node@21.7.1:
+  version "21.7.1"
+  resolved "https://registry.yarnpkg.com/node/-/node-21.7.1.tgz#da9dcf9ca544f3c86b7a9a019272c9bd7cd9a7b5"
+  integrity sha512-j6NFfbKy3DBuaJh2X8lRZmS59oLr2XRtt0rTa9VsFj3ZcGbeK7xp40gZaI92AqNuRv1aL5dRueNqL6YuZFcjJg==
   dependencies:
     node-bin-setup "^1.0.0"
 
