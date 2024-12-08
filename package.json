@@ -48,7 +48,7 @@
     "@size-limit/preset-small-lib": "6.0.4",
     "@types/faker": "5.5.9",
     "@types/node": "16.11.18",
-    "faker": "6.6.6",
+    "@faker-js/faker": "5.5.3",
     "husky": "7.0.4",
     "node": "17.4.0",
     "size-limit": "7.0.3",
